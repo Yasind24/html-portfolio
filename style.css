@@ -1,13 +1,15 @@
+html { 
+    background-color: black;}
 div {
     margin: 20px;
     border: solid;
-    border-color: #052905;
+    border-color: white;
     border-width: 20px;
-    background-color: rgb(34, 23, 23);
+    background-color: black;
     width: 520px;}
 img {
     border: solid;
-    border-color: #052905;
+    border-color: white;
     border-width: 0px 0px 20px 0px}
 p   {
     text-align: center;

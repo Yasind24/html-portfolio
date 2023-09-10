@@ -1,0 +1,16 @@
+div {
+    margin: 20px;
+    border: solid;
+    border-color: #052905;
+    border-width: 20px;
+    background-color: rgb(34, 23, 23);
+    width: 520px;}
+img {
+    border: solid;
+    border-color: #052905;
+    border-width: 0px 0px 20px 0px}
+p   {
+    text-align: center;
+    color: azure;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
